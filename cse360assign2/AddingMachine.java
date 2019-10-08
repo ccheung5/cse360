@@ -5,6 +5,8 @@ package cse360assign2;
 * Class ID: CSE 360 - Intro to Software Engineering- Monday 
 * Assignment #2
 * Description: Learning to use Git with a simple AddingMachine.java class
+* 
+* GitHub Repository Website: https://github.com/ccheung5/cse360.git
 */
 public class AddingMachine
 	{
@@ -42,6 +44,7 @@ public class AddingMachine
 			total= 0;
 			n = "0";
 		}
+		
 
 	}
 
